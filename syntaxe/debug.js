@@ -3,7 +3,7 @@
 let a1 = 10
 let a2 = 20
 // Nous calculons le total
-const tot = a1 + a2
+let tot = a1 + a2
 // Prix d'un troisieme article
 let a3 = 50
 // Nous ajoutons a3 au total
