@@ -1,0 +1,14 @@
+img {
+    
+    border-radius: 50%;
+    font-family: comic;
+    justify-content: center;
+    border: 5px solid hotpink;
+    align-items: center;
+    margin: auto;
+}
+div {
+    background-color: rgb(187, 111, 139);
+    color: purple;
+    text-align: center;
+}
